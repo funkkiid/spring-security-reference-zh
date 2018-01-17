@@ -1,4 +1,6 @@
-#Spring Security 参考手册
+# Spring Security 参考手册
+
+> 本开源书 forked from [Spring Security 参考手册](https://github.com/vincentmi/spring-security-reference-zh)，作者为 [vincentmi](https://github.com/vincentmi)，欢迎大家 star 原作者的 [repo](https://github.com/vincentmi/spring-security-reference-zh)，以便获得最新更新，谢谢！
 
 作者
 
